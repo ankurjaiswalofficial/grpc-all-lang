@@ -1,1 +1,2 @@
 # grpc-all-lang
+This repository is based on the GRPC that is Google remote procedure call library which is open source and in this repository you will find the connectors or you can say that a kind of representation and the generation code to embed with any programming language mostly it is focused on <b>Javascript</b> and <b>Python</b> for now you could use this code or code base for your understanding purpose.
