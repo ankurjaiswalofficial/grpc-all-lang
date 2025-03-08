@@ -1,7 +1,7 @@
 from concurrent import futures
 import grpc
-from generated import service_pb2
-from generated import service_pb2_grpc
+from protos import service_pb2
+from protos import service_pb2_grpc
 
 class MyService(service_pb2_grpc.MyServiceServicer):
     def SayHello(self, request, context):
